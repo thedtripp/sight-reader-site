@@ -14,6 +14,7 @@ h1 { font-size: 1.9rem; line-height: 1.2; margin: 0 0 .25rem; }
 h2 { font-size: 1.05rem; margin-top: 1.75rem; }
 .muted { color: var(--muted); }
 .hero { text-align: center; }
+.hero img.icon { width: 96px; height: 96px; border-radius: 22px; }
 .tagline { font-size: 1.15rem; color: var(--muted); margin: .25rem 0 1.25rem; }
 .badge { display: inline-block; padding: .55rem 1.1rem; border-radius: 999px;
   background: var(--primary); color: var(--on-primary); font-weight: 600; text-decoration: none; }
